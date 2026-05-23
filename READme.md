@@ -68,8 +68,5 @@ This project demonstrates practical deep learning, NLP model fine-tuning, infere
 ### Training Curves
 
 ![Training Curves](outputs/training_curves.png)
-![Confusion Matrix](outputs/confusion_matrix.png)
 
-### Training Curves
 
-![Training Curves](outputs/training_curves.png)
