@@ -44,3 +44,23 @@ This project demonstrates practical deep learning, NLP model fine-tuning, infere
 - NumPy
 - Matplotlib
 - Scikit-learn
+
+## Screenshots
+
+### Prediction Interface
+
+![FactTrace Prediction Interface](screenshots/facttrace_prediction.png)
+
+### SHAP Word-Level Explanation
+
+![SHAP Word-Level Explanation](screenshots/facttrace_shap.png)
+
+## Model Outputs
+
+### Confusion Matrix
+
+![Confusion Matrix](outputs/confusion_matrix.png)
+
+### Training Curves
+
+![Training Curves](outputs/training_curves.png)
