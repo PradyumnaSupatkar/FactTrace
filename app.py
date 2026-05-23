@@ -13,8 +13,7 @@ from transformers import DistilBertForSequenceClassification, DistilBertTokenize
 
 #App setup
 st.set_page_config(
-    page_title="TruthLens",
-    page_icon="🔬",
+    page_title="FactTrace",
     layout="centered",
 )
 
