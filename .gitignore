@@ -1,17 +1,11 @@
+checkpoints/
+model/
 venv/
 .venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-.env
-.DS_Store
-
-#Saved model files
-model/
 *.pt
 *.pth
 *.bin
 *.safetensors
-
-#Logs
-*.log
