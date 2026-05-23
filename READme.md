@@ -47,18 +47,27 @@ This project demonstrates practical deep learning, NLP model fine-tuning, infere
 
 ## Screenshots
 
-### Prediction Interface
+### App Interface
 
-![FactTrace Prediction Interface](screenshots/facttrace_prediction.png)
+![App Interface](screenshots/app_interface.png)
+
+### Prediction Result
+
+![Prediction Result](screenshots/prediction_result.png)
 
 ### SHAP Word-Level Explanation
 
-![SHAP Word-Level Explanation](screenshots/facttrace_shap.png)
+![SHAP Word-Level Explanation](screenshots/shap_explanation.png)
 
 ## Model Outputs
 
 ### Confusion Matrix
 
+![Confusion Matrix](outputs/confusion_matrix.png)
+
+### Training Curves
+
+![Training Curves](outputs/training_curves.png)
 ![Confusion Matrix](outputs/confusion_matrix.png)
 
 ### Training Curves
